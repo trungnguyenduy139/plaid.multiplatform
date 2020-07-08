@@ -5,9 +5,9 @@
       <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false" isTestModule="true" externalProjectId="plaid.multiplatform">
         <dependsOnModuleNames>plaid.multiplatform:commonTest</dependsOnModuleNames>
         <sourceSets>
-          <sourceSet>plaid.multiplatform.jvmMain</sourceSet>
-          <sourceSet>plaid.multiplatform.commonTest</sourceSet>
-          <sourceSet>plaid.multiplatform.commonMain</sourceSet>
+          <sourceSet>plaid.multiplatform.plaid.multiplatform.jvmMain</sourceSet>
+          <sourceSet>plaid.multiplatform.plaid.multiplatform.commonTest</sourceSet>
+          <sourceSet>plaid.multiplatform.plaid.multiplatform.commonMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <externalSystemTestTasks>jvmTest|plaid.multiplatform:jvmTest|jvm</externalSystemTestTasks>

@@ -1,4 +1,4 @@
-package sample
+package multiplatform
 
 actual class Sample {
     actual fun checkMe() = 7

@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="11">
+      <module name="plaid.multiplatform.androidMain" target="1.6" />
+      <module name="plaid.multiplatform.androidMain~1" target="1.6" />
+      <module name="plaid.multiplatform.androidTest" target="1.6" />
+      <module name="plaid.multiplatform.androidTest~1" target="1.6" />
+      <module name="plaid.multiplatform.jvmMain" target="1.6" />
+      <module name="plaid.multiplatform.jvmMain~1" target="1.6" />
+      <module name="plaid.multiplatform.jvmTest" target="1.6" />
+      <module name="plaid.multiplatform.jvmTest~1" target="1.6" />
+    </bytecodeTargetLevel>
   </component>
 </project>

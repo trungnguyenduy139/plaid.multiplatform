@@ -1,4 +1,4 @@
-package sample
+package multiplatform
 
 expect class Sample() {
     fun checkMe(): Int
